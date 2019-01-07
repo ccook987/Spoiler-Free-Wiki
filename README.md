@@ -1,4 +1,4 @@
-# **Spoiler Free Wiki**
+# **[Spoiler Free Wiki](https://spoiler-free-wiki.firebaseapp.com/)**
 
 #### _A wiki site that allows users to filter out content containing spoilers, 11.01.2018_
 
@@ -38,7 +38,7 @@ As this is a community-based site, users have the ability to add entries to the 
 
 ## Setup/Installation Requirements
 
-#### To view the live site, please visit: 
+#### To view the live site, please visit:
 
 https://spoiler-free-wiki.firebaseapp.com/
 
